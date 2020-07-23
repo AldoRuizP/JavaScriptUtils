@@ -1,6 +1,6 @@
 # Rename Files
 
-![demo_gif](https://www.dropbox.com/s/s8qjixy8esf8x7d/Screencast-2020.07.23-13.49.gif?dl=0)
+![demo_gif](https://www.dropbox.com/s/s8qjixy8esf8x7d/Screencast-2020.07.23-13.49.gif)
 
 This bash script renames all the files in a folder, based on a given basename. So you can go from this
 
